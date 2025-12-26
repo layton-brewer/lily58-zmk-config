@@ -26,7 +26,7 @@ This repository allows you to:
 .
 ├── config/
 │   ├── lily58.conf        # General ZMK configuration (Bluetooth, display, power)
-│   ├── lily58.keymap     # Keymap, layers, encoders
+│   ├── lily58.keymap      # Keymap, layers, encoders
 │   └── west.yml
 │
 ├── .github/
